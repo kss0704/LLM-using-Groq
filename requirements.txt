@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 langchain
 python-dotenv
 ipykernel
@@ -29,4 +30,37 @@ youtube_transcript_api
 unstructured
 pytube
 numexpr
+=======
+langchain
+python-dotenv
+ipykernel
+langchain-community
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
+langchain-text-splitters
+langchain-openai
+chromadb
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+langchain_chroma
+duckdb
+pandas
+openai
+langchain-groq
+duckduckgo_search==5.3.1b1
+pymupdf
+arxiv
+wikipedia
+mysql-connector-python
+SQLAlchemy
+validators==0.28.1
+youtube_transcript_api
+unstructured
+pytube
+numexpr
+>>>>>>> 5058c6a5eadec4da795633dc7683612181bfd069
 huggingface_hub
