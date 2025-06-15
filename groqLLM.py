@@ -80,8 +80,5 @@ with st.sidebar:
     st.write("Provider: Groq")
     if st.button("Clear Chat History"):
         st.session_state.messages = []
-<<<<<<< HEAD
+
         st.experimental_rerun()
-=======
-        st.experimental_rerun()
->>>>>>> 5058c6a5eadec4da795633dc7683612181bfd069
